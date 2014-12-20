@@ -1,8 +1,10 @@
 # rnfse external doc
-Documentação dos padrões abrasf e reespectivas implementações.
+Documentação dos padrões ABRASF de nota fiscal de serviços eletrônica
+(NFS-e) e reespectivas implementações.
 
 Esse repositório foi criado para centralizar e tornar público os
-documentos envolvidos no projeto por praticidade.
+documentos envolvidos no projeto
+[rnfse](https://github.com/aitherios/rnfse) por praticidade.
 
 > Seria incoerente que me opusesse a que um escritor coma do que
 > escreve, o que me parece, isso sim, condenável, é que escreva quando
