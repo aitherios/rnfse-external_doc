@@ -1,7 +1,7 @@
 # rnfse external doc
 Documentação dos padrões abrasf e reespectivas implementações.
 
-Esse repositório foi criado para centralizar e publicizar os
+Esse repositório foi criado para centralizar e tornar público os
 documentos envolvidos no projeto por praticidade.
 
 > Seria incoerente que me opusesse a que um escritor coma do que
