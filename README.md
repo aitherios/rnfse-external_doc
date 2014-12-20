@@ -1,5 +1,5 @@
 # rnfse external doc
-Documentação dos padrões ABRASF de nota fiscal de serviços eletrônica
+Documentação dos padrões ABRASF de Nota Fiscal de Serviços eletrônica
 (NFS-e) e reespectivas implementações.
 
 Esse repositório foi criado para centralizar e tornar público os
