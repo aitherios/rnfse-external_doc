@@ -11,31 +11,32 @@ documentos envolvidos no projeto por praticidade.
 
 ## Estrutura
 
-  ├── abrasf
-  │   ├── v1.00
-  │   ├── v2.00
-  │   ├── v2.01
-  │   └── v2.02
-  ├── dsf_net
-  ├── iss_net
-  └── speed_gov
-    
-abrasf
-  Documentação das diversas versões do padrão
-  [ABRASF](http://www.abrasf.org.br)
+```
+├── abrasf
+│   ├── v1.00
+│   ├── v2.00
+│   ├── v2.01
+│   └── v2.02
+├── dsf_net
+├── iss_net
+└── speed_gov
+```
 
-dsf_net
-  Documentação do provedor desenvolvido pela
-  [DSF - Inteligência Tributária Municipal](http://www.dsfnet.com.br)
+### abrasf
+Documentação das diversas versões do padrão
+[ABRASF](http://www.abrasf.org.br)
 
-iss_net
-  Documentação do provedor [ISS.net](http://www.issnetonline.com.br)
-  desenvolvido pela
-  [Nota Control Tecnologia](http://www.notacontrol.com.br)
+### dsf_net
+Documentação do provedor desenvolvido pela
+[DSF - Inteligência Tributária Municipal](http://www.dsfnet.com.br)
 
-speed_gov
-  Documentação do provedor [SpeedGov](http://www.speedgov.com.br) desenvolvido pela
-  [Intersol Soluções Internet](http://intersol.com.br)
+### iss_net
+Documentação do provedor [ISS.net](http://www.issnetonline.com.br) desenvolvido pela
+Nota Control Tecnologia](http://www.notacontrol.com.br)
+
+### speed_gov
+Documentação do provedor [SpeedGov](http://www.speedgov.com.br) desenvolvido pela
+[Intersol Soluções Internet](http://intersol.com.br)
 
 ## Contribuindo
 
